@@ -2,7 +2,6 @@ import React from 'react';
 
 import MapViewDirecions from 'react-native-maps-directions';
 
-
 export default function Directions({ destination, origin, onReady }) {
 
     
